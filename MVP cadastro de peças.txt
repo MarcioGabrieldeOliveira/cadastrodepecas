@@ -1,0 +1,5 @@
+Sistema Cadastro de peças
+
+- Peça pode ser cadastrada caso o peso seja maior que 100g
+- Lista de peças tem a capacidade maxima de 10 peças
+- A peça deve ter um nomem maior que 3 caracteres, senão, mostrar erro
